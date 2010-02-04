@@ -1,0 +1,12 @@
+#summary List of included games.
+#labels Featured
+
+= Introduction =
+
+This is a list of all the games included in the current release, with links to the games entry in [http://libregamewiki.org/ Libre Game Wiki] and a review at the [http://freegamer.blogspot.com Free Gamer blog].
+
+
+= List of Games =
+|| Name || Code License || Media License || Libre Game Wiki Entry || Free Gamer Entry ||
+|| Battle for Wesnoth || GPL || GPL || http://libregamewiki.org/Wesnoth || http://freegamer.blogspot.com/2009/12/non-rts-strategy-games.html ||
+|| Biniax 2 || zlib || zlib || http://libregamewiki.org/Biniax || http://freegamer.blogspot.com/2009/06/some-puzzle-games.html ||
