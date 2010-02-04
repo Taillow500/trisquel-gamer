@@ -10,3 +10,11 @@ This is a list of all the games included in the current release, with links to t
 || Name || Code License || Media License || Libre Game Wiki Entry || Free Gamer Entry ||
 || Battle for Wesnoth || GPL || GPL || http://libregamewiki.org/Wesnoth || http://freegamer.blogspot.com/2009/12/non-rts-strategy-games.html ||
 || Biniax 2 || zlib || zlib || http://libregamewiki.org/Biniax || http://freegamer.blogspot.com/2009/06/some-puzzle-games.html ||
+|| Block Attack || GPL || GPL || http://libregamewiki.org/Block_Attack || http://freegamer.blogspot.com/2008/08/jclassicrpgs-major-breakthrough-in.html ||
+|| Bos Wars || GPL || GPL || http://libregamewiki.org/Bos_Wars || http://freegamer.blogspot.com/2008/03/bos-wars-and-globulation2.html ||
+|| Emilia Pinball || GPL || GPL || http://libregamewiki.org/Emilia_Pinball || http://freegamer.blogspot.com/2009/03/top-10-projects-to-revive.html ||
+|| FlightGear || GPL || GPL || http://libregamewiki.org/Flightgear || http://freegamer.blogspot.com/2009/01/overdose-on-free-software.html ||
+|| Freeciv || GPL || GPL || http://libregamewiki.org/Freeciv || http://freegamer.blogspot.com/2008/06/no-real-news-but-much-artificial-news.html ||
+
+
+||  ||  ||  ||  ||  ||
