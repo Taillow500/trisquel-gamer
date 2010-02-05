@@ -7,7 +7,7 @@ This is a list of all the games included in the current release, with links to t
 
 
 = List of Games =
-|| Name || Genre || Clones || Libre Game Wiki Entry || Free Gamer Entry ||
+|| *Name* || *Genre* || *Clones* || *Libre Game Wiki Entry* || *Free Gamer Entry* ||
 || Battle for Wesnoth || Turn-Based Strategy ||  || http://libregamewiki.org/Wesnoth || http://freegamer.blogspot.com/search?q=wesnoth ||
 || Biniax 2 || Puzzle ||  || http://libregamewiki.org/Biniax || http://freegamer.blogspot.com/search?q=biniax ||
 || Block Attack || Puzzle || Tetris Attack || http://libregamewiki.org/Block_Attack || http://freegamer.blogspot.com/search?q=block+attack ||
