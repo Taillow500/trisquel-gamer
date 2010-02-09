@@ -1,4 +1,5 @@
 #summary Changes planned for the next release.
+#labels Featured
 
 Monday, February 8th, 2010.
 
@@ -10,11 +11,11 @@ Current release: 18 Games.
 
 Next Release: 42 Games.
 
-I hope to make the new release in the following three weeks.
+I'll make the new release soon, probably this weekend or the next week.
 
 = Added Games =
 
-I read a lot of feedback from the Trisquel forum, thanks you all for your comments! So here is the games that will be added to the next release (there are 25 new games):
+I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/trisquel-gamer-live-dvd-full-free-software-games-boot-and-play, thanks you all for your comments! So here is the games that will be added to the next release (there are 25 new games):
 
 || *Name* || *Genre* || *Clones* || *Libre Game Wiki Entry* || *Free Gamer Entry* ||
 || Abe's Amazing Adventure || Platform ||  || http://libregamewiki.org/Abe%27s_Amazing_Adventure || http://freegamer.blogspot.com/search?q=Abe%27s+Amazing+Adventure ||
