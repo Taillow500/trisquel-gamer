@@ -49,9 +49,11 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 I removed Flightgear because until I can compile fgrun or another GUI to launch the game. In the current state the CLI is needed to select a plane, airport and other options.
 
 = Application's menu =
+
 I'm reworking the application's menu to show more nicely the new collection of games.
 
 = Add a graphical 'Insert an USB flash drive' message =
+
 I'll add a message box to show the 'Insert an USB flash drive', I hope it will look nicer than the current gnome console used to display the message.
 
 Well, that's all for now. Stay tuned for more release information.
