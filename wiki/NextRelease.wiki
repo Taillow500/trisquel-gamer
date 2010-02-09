@@ -18,7 +18,12 @@ I read a lot of feedback from the Trisquel forum, thanks to all for your comment
 || Battle Tanks || Arcade ||  || http://libregamewiki.org/Battle_Tanks || http://freegamer.blogspot.com/search?q=Battle+Tanks ||
 || Blob Wars Episode 2 : Blob And Conquer || TPS ||  || http://libregamewiki.org/Blob_Wars_Episode_2_:_Blob_And_Conquer || http://freegamer.blogspot.com/search?q=Blob+and+Conquer ||
 || Bygfoot || Simulation ||  || http://libregamewiki.org/Bygfoot || http://freegamer.blogspot.com/search?q=bygfoot ||
-|| Crimson Fields ||  ||  ||  ||  ||
+|| Crimson Fields || TBS ||  || http://libregamewiki.org/Crimson_Fields || http://freegamer.blogspot.com/search?q=Crimson+Fields ||
+|| Cultivation || Life Simulation ||  || http://libregamewiki.org/Cultivation || http://freegamer.blogspot.com/search?q=Cultivation ||
+|| Extreme Tux Racer || Racing ||  || http://libregamewiki.org/Extreme_Tux_Racer || http://freegamer.blogspot.com/search?q=Extreme+Tux+Racer ||
+|| Fish Fillets NG || Puzzle || Sokoban || http://libregamewiki.org/Fish_Fillets_-_Next_Generation || http://freegamer.blogspot.com/search?q=fish+fillets ||
+||  ||  ||  ||  ||  ||
+
 
 
 ||  ||  ||  ||  ||  ||
