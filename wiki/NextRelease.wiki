@@ -1,13 +1,17 @@
 #summary Changes planned for the next release.
 
+Monday, February 8th, 2010.
+
 = Introduction =
 
-Here is the list of games and other features that will be added to the next release of Trisquel Gamer:
+Here is the list of games and other features that will be added to the next release of Trisquel Gamer.
 
+Current release: 18 Games.
+Next Release: 42 Games.
 
 = Added Games =
 
-I read a lot of feedback from the Trisquel forum, thanks to all for your comments. So here is the games that will be added to the next release:
+I read a lot of feedback from the Trisquel forum, thanks you all for your comments! So here is the games that will be added to the next release (there are 25 new games):
 
 || *Name* || *Genre* || *Clones* || *Libre Game Wiki Entry* || *Free Gamer Entry* ||
 || Abe's Amazing Adventure || Platform ||  || http://libregamewiki.org/Abe%27s_Amazing_Adventure || http://freegamer.blogspot.com/search?q=Abe%27s+Amazing+Adventure ||
@@ -36,6 +40,16 @@ I read a lot of feedback from the Trisquel forum, thanks to all for your comment
 || Vega Strike || Space Simulation ||  || http://libregamewiki.org/Vega_Strike || http://freegamer.blogspot.com/search?q=Vega+Strike ||
 || X-Moto || Racing || Elastomania || http://libregamewiki.org/X-Moto || http://freegamer.blogspot.com/search?q=xmoto ||
 
+= Removed Games =
 
+I removed Flightgear because until I can compile FGrun or another GUI to launch the game. In the current state the CLI is needed to select a plane, airport and other options.
+
+= Application's menu =
+I'm reworking the application menu to show more nicely the new collection of games.
+
+= Add a graphical 'Insert an USB flash drive' message =
+I'll add a message box to show the 'Insert an USB flash drive', I hope it will look nicer than the current gnome console used to display the message.
+
+Well
 
 ||  ||  ||  ||  ||  ||
