@@ -27,6 +27,14 @@ I read a lot of feedback from the Trisquel forum, thanks to all for your comment
 || GL-117 || Combat Flight Simulator ||  || http://libregamewiki.org/GL-117 || http://freegamer.blogspot.com/search?q=gl-117 ||
 || Meritous || Action RPG ||  || http://libregamewiki.org/GL-117 || http://freegamer.blogspot.com/search?q=Meritous ||
 || Nexuiz || First Person Shooter ||  || http://libregamewiki.org/Nexuiz || http://freegamer.blogspot.com/search?q=Nexuiz ||
+|| Nikwi || Platform || Nico Tuvla || http://libregamewiki.org/Nikwi || http://freegamer.blogspot.com/search?q=Nikwi ||
+|| OpenArena || First Person Shooter || Quake III Arena || http://libregamewiki.org/OpenArena || http://freegamer.blogspot.com/search?q=OpenArena ||
+|| Overgod || Arcade ||  || http://libregamewiki.org/Overgod || http://freegamer.blogspot.com/search?q=overgod ||
+|| Simutrans || Transport Infrastructure || Transport Tycoon || http://libregamewiki.org/Simutrans || http://freegamer.blogspot.com/search?q=Simutrans ||
+|| Supertux || Platform || Super Mario Bros. || http://libregamewiki.org/Supertux || http://freegamer.blogspot.com/search?q=Supertux ||
+|| SuperTuxKart || Racing || Super Mario Kart || http://libregamewiki.org/SuperTuxKart || http://freegamer.blogspot.com/search?q=SuperTuxKart ||
+|| Vega Strike || Space Simulation ||  || http://libregamewiki.org/Vega_Strike || http://freegamer.blogspot.com/search?q=Vega+Strike ||
+|| X-Moto || Racing || Elastomania || http://libregamewiki.org/X-Moto || http://freegamer.blogspot.com/search?q=xmoto ||
 
 
 
