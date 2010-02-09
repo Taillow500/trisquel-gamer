@@ -7,6 +7,7 @@ Monday, February 8th, 2010.
 Here is the list of games and other features that will be added to the next release of Trisquel Gamer.
 
 Current release: 18 Games.
+
 Next Release: 42 Games.
 
 I hope to make the new release in the following three weeks.
