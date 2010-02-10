@@ -45,9 +45,12 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 || OpenArena || First Person Shooter || Quake III Arena || http://libregamewiki.org/OpenArena || http://freegamer.blogspot.com/search?q=OpenArena ||
 || Overgod || Arcade ||  || http://libregamewiki.org/Overgod || http://freegamer.blogspot.com/search?q=overgod ||
 || Scorched 3D || TBS || Scorched Earth || http://libregamewiki.org/Scorched_3D || http://freegamer.blogspot.com/search?q=scorched+3d ||
+|| Secret Maryo Chronicles || Platform || Super Mario World || http://libregamewiki.org/Secret_Maryo_Chronicles || http://freegamer.blogspot.com/search?q=secret+maryo+chronicles ||
 || Simutrans || Transport Infrastructure || Transport Tycoon || http://libregamewiki.org/Simutrans || http://freegamer.blogspot.com/search?q=Simutrans ||
+|| Super Transball 2 || Arcade || ZARA THRUSTA || http://libregamewiki.org/Super_Transball_2 || http://freegamer.blogspot.com/2006/06/karting-race-to-gpl-vdrift.html ||
 || Supertux || Platform || Super Mario Bros. || http://libregamewiki.org/Supertux || http://freegamer.blogspot.com/search?q=Supertux ||
 || SuperTuxKart || Racing || Super Mario Kart || http://libregamewiki.org/SuperTuxKart || http://freegamer.blogspot.com/search?q=SuperTuxKart ||
+|| Trackballs || Arcade || Marble Madness || http://libregamewiki.org/Trackballs || http://freegamer.blogspot.com/search?q=trackballs ||
 || Vega Strike || Space Simulation ||  || http://libregamewiki.org/Vega_Strike || http://freegamer.blogspot.com/search?q=Vega+Strike ||
 || X-Moto || Racing || Elastomania || http://libregamewiki.org/X-Moto || http://freegamer.blogspot.com/search?q=xmoto ||
 
