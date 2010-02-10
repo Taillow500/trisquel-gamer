@@ -1,7 +1,7 @@
 #summary Changes planned for the next release.
 #labels Featured
 
-*Update, Wednesday February 10th, 2010*: Updated the game list, now with 50 games, this is the final list for the next release. Now working on the graphical interface for the 'Insert an USB flash drive' message.
+*Update - Wednesday February 10th, 2010*: Updated the game list, now with 50 games, this is the final list for the next release. Now working on the graphical interface for the 'Insert an USB flash drive' message.
 
 Monday, February 8th, 2010.
 
