@@ -22,19 +22,19 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 || *Name* || *Genre* || *Clones* || *Libre Game Wiki Entry* || *Free Gamer Entry* ||
 || Abe's Amazing Adventure || Platform ||  || http://libregamewiki.org/Abe%27s_Amazing_Adventure || http://freegamer.blogspot.com/search?q=Abe%27s+Amazing+Adventure ||
 || Adonthell (Waste's edge) || RPG ||  || http://libregamewiki.org/Adonthell || http://freegamer.blogspot.com/search?q=adonthell ||
-|| Advanced Strategic Command || TBS ||  || http://libregamewiki.org/Advanced_Strategic_Command || http://freegamer.blogspot.com/search?q=Advanced+strategic+command ||
+|| Advanced Strategic Command || Turn-Based Strategy ||  || http://libregamewiki.org/Advanced_Strategic_Command || http://freegamer.blogspot.com/search?q=Advanced+strategic+command ||
 || Armagetron Advanced || Racing || Tron || http://libregamewiki.org/Armagetron_advanced || http://freegamer.blogspot.com/search?q=Armagetron+Advanced ||
 || Atomic Tanks || Arcade || Artillery || http://libregamewiki.org/Atomic_tanks || http://freegamer.blogspot.com/search?q=Atomic+Tanks ||
 || Barrage || Arcade ||  || http://libregamewiki.org/Barrage || http://freegamer.blogspot.com/search?q=Barrage ||
 || Battle Tanks || Arcade ||  || http://libregamewiki.org/Battle_Tanks || http://freegamer.blogspot.com/search?q=Battle+Tanks ||
-|| Blob Wars Episode 2 : Blob And Conquer || TPS ||  || http://libregamewiki.org/Blob_Wars_Episode_2_:_Blob_And_Conquer || http://freegamer.blogspot.com/search?q=Blob+and+Conquer ||
+|| Blob Wars Episode 2 : Blob And Conquer || Third Person Shooter ||  || http://libregamewiki.org/Blob_Wars_Episode_2_:_Blob_And_Conquer || http://freegamer.blogspot.com/search?q=Blob+and+Conquer ||
 || Bygfoot || Simulation ||  || http://libregamewiki.org/Bygfoot || http://freegamer.blogspot.com/search?q=bygfoot ||
 || Chromium B.S.U. || Arcade || Raptor || http://libregamewiki.org/Chromium_B.S.U. || http://freegamer.blogspot.com/search?q=Chromium ||
-|| Crimson Fields || TBS ||  || http://libregamewiki.org/Crimson_Fields || http://freegamer.blogspot.com/search?q=Crimson+Fields ||
+|| Crimson Fields || Turn-Based Strategy ||  || http://libregamewiki.org/Crimson_Fields || http://freegamer.blogspot.com/search?q=Crimson+Fields ||
 || Cultivation || Life Simulation ||  || http://libregamewiki.org/Cultivation || http://freegamer.blogspot.com/search?q=Cultivation ||
 || Extreme Tux Racer || Racing ||  || http://libregamewiki.org/Extreme_Tux_Racer || http://freegamer.blogspot.com/search?q=Extreme+Tux+Racer ||
 || Fish Fillets NG || Puzzle || Sokoban || http://libregamewiki.org/Fish_Fillets_-_Next_Generation || http://freegamer.blogspot.com/search?q=fish+fillets ||
-|| Freecol || TBS || Colonization || http://libregamewiki.org/Freecol || http://freegamer.blogspot.com/search?q=Freecol ||
+|| Freecol || Turn-Based Strategy || Colonization || http://libregamewiki.org/Freecol || http://freegamer.blogspot.com/search?q=Freecol ||
 || Frets on Fire || Music || Guitar Hero || http://libregamewiki.org/Frets_on_Fire || http://freegamer.blogspot.com/search?q=frets+on+fire ||
 || Freedroid RPG || RPG ||  || http://libregamewiki.org/Freedroid_RPG || http://freegamer.blogspot.com/search?q=Freedroid+RPG ||
 || Frozen Bubble || Puzzle || Puzzle Bobble || http://libregamewiki.org/Frozen_Bubble || http://freegamer.blogspot.com/search?q=Frozen+Bubble ||
@@ -44,7 +44,7 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 || Nikwi || Platform || Nico Tuvla || http://libregamewiki.org/Nikwi || http://freegamer.blogspot.com/search?q=Nikwi ||
 || OpenArena || First Person Shooter || Quake III Arena || http://libregamewiki.org/OpenArena || http://freegamer.blogspot.com/search?q=OpenArena ||
 || Overgod || Arcade ||  || http://libregamewiki.org/Overgod || http://freegamer.blogspot.com/search?q=overgod ||
-|| Scorched 3D || TBS || Scorched Earth || http://libregamewiki.org/Scorched_3D || http://freegamer.blogspot.com/search?q=scorched+3d ||
+|| Scorched 3D || Turn-Based Strategy || Scorched Earth || http://libregamewiki.org/Scorched_3D || http://freegamer.blogspot.com/search?q=scorched+3d ||
 || Secret Maryo Chronicles || Platform || Super Mario World || http://libregamewiki.org/Secret_Maryo_Chronicles || http://freegamer.blogspot.com/search?q=secret+maryo+chronicles ||
 || Simutrans || Transport Infrastructure || Transport Tycoon || http://libregamewiki.org/Simutrans || http://freegamer.blogspot.com/search?q=Simutrans ||
 || Super Transball 2 || Arcade || ZARA THRUSTA || http://libregamewiki.org/Super_Transball_2 || http://freegamer.blogspot.com/2006/06/karting-race-to-gpl-vdrift.html ||
@@ -62,7 +62,7 @@ I removed Flightgear because until I can compile fgrun or another GUI to launch 
 
 I'm reworking the application's menu to show more nicely the new collection of games.
 
-= Add a graphical 'Insert an USB flash drive' message (Working) =
+= Add a graphical 'Insert an USB flash drive' message (Working on) =
 
 I'll add a message box to show the 'Insert an USB flash drive', I hope it will look nicer than the current gnome console used to display the message.
 
