@@ -51,7 +51,7 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 || Supertux || Platform || Super Mario Bros. || http://libregamewiki.org/Supertux || http://freegamer.blogspot.com/search?q=Supertux ||
 || SuperTuxKart || Racing || Super Mario Kart || http://libregamewiki.org/SuperTuxKart || http://freegamer.blogspot.com/search?q=SuperTuxKart ||
 || Trackballs || Arcade || Marble Madness || http://libregamewiki.org/Trackballs || http://freegamer.blogspot.com/search?q=trackballs ||
-|| Vega Strike || Space Simulation ||  || http://libregamewiki.org/Vega_Strike || http://freegamer.blogspot.com/search?q=Vega+Strike ||
+|| Vega Strike || Space Simulation || Elite || http://libregamewiki.org/Vega_Strike || http://freegamer.blogspot.com/search?q=Vega+Strike ||
 || X-Moto || Racing || Elastomania || http://libregamewiki.org/X-Moto || http://freegamer.blogspot.com/search?q=xmoto ||
 
 = Removed Games =
