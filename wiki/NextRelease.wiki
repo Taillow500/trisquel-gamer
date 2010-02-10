@@ -1,35 +1,41 @@
 #summary Changes planned for the next release.
 #labels Featured
 
+*Update, Wednesday February 10th, 2010*: Updated the game list, now with 50 games, this is the final list for the next release. Now working on the graphical interface for the 'Insert an USB flash drive' message.
+
 Monday, February 8th, 2010.
 
 = Introduction =
 
-Here is the list of games and other features that will be added to the next release of Trisquel Gamer.
+Here is the list of games and other features that will be added to the next release of Trisquel Gamer. 
 
 Current release: 18 Games.
 
-Next Release: 42 Games.
+Next Release: 50 Games.
 
 I'll make the new release soon, probably this weekend or the next week.
 
-= Added Games =
+= Added Games (Updated, Final)=
 
-I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/trisquel-gamer-live-dvd-full-free-software-games-boot-and-play, thank you for your comments! So here is the games that will be added to the next release (there are 25 new games):
+I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/trisquel-gamer-live-dvd-full-free-software-games-boot-and-play, thank you for your comments! So here is the games that will be added to the next release (there are 33 new games):
 
 || *Name* || *Genre* || *Clones* || *Libre Game Wiki Entry* || *Free Gamer Entry* ||
 || Abe's Amazing Adventure || Platform ||  || http://libregamewiki.org/Abe%27s_Amazing_Adventure || http://freegamer.blogspot.com/search?q=Abe%27s+Amazing+Adventure ||
 || Adonthell (Waste's edge) || RPG ||  || http://libregamewiki.org/Adonthell || http://freegamer.blogspot.com/search?q=adonthell ||
+|| Advanced Strategic Command || TBS ||  || http://libregamewiki.org/Advanced_Strategic_Command || http://freegamer.blogspot.com/search?q=Advanced+strategic+command ||
 || Armagetron Advanced || Racing || Tron || http://libregamewiki.org/Armagetron_advanced || http://freegamer.blogspot.com/search?q=Armagetron+Advanced ||
 || Atomic Tanks || Arcade || Artillery || http://libregamewiki.org/Atomic_tanks || http://freegamer.blogspot.com/search?q=Atomic+Tanks ||
 || Barrage || Arcade ||  || http://libregamewiki.org/Barrage || http://freegamer.blogspot.com/search?q=Barrage ||
 || Battle Tanks || Arcade ||  || http://libregamewiki.org/Battle_Tanks || http://freegamer.blogspot.com/search?q=Battle+Tanks ||
 || Blob Wars Episode 2 : Blob And Conquer || TPS ||  || http://libregamewiki.org/Blob_Wars_Episode_2_:_Blob_And_Conquer || http://freegamer.blogspot.com/search?q=Blob+and+Conquer ||
 || Bygfoot || Simulation ||  || http://libregamewiki.org/Bygfoot || http://freegamer.blogspot.com/search?q=bygfoot ||
+|| Chromium B.S.U. || Arcade || Raptor || http://libregamewiki.org/Chromium_B.S.U. || http://freegamer.blogspot.com/search?q=Chromium ||
 || Crimson Fields || TBS ||  || http://libregamewiki.org/Crimson_Fields || http://freegamer.blogspot.com/search?q=Crimson+Fields ||
 || Cultivation || Life Simulation ||  || http://libregamewiki.org/Cultivation || http://freegamer.blogspot.com/search?q=Cultivation ||
 || Extreme Tux Racer || Racing ||  || http://libregamewiki.org/Extreme_Tux_Racer || http://freegamer.blogspot.com/search?q=Extreme+Tux+Racer ||
 || Fish Fillets NG || Puzzle || Sokoban || http://libregamewiki.org/Fish_Fillets_-_Next_Generation || http://freegamer.blogspot.com/search?q=fish+fillets ||
+|| Freecol || TBS || Colonization || http://libregamewiki.org/Freecol || http://freegamer.blogspot.com/search?q=Freecol ||
+|| Frets on Fire || Music || Guitar Hero || http://libregamewiki.org/Frets_on_Fire || http://freegamer.blogspot.com/search?q=frets+on+fire ||
 || Freedroid RPG || RPG ||  || http://libregamewiki.org/Freedroid_RPG || http://freegamer.blogspot.com/search?q=Freedroid+RPG ||
 || Frozen Bubble || Puzzle || Puzzle Bobble || http://libregamewiki.org/Frozen_Bubble || http://freegamer.blogspot.com/search?q=Frozen+Bubble ||
 || GL-117 || Combat Flight Simulator ||  || http://libregamewiki.org/GL-117 || http://freegamer.blogspot.com/search?q=gl-117 ||
@@ -38,6 +44,7 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 || Nikwi || Platform || Nico Tuvla || http://libregamewiki.org/Nikwi || http://freegamer.blogspot.com/search?q=Nikwi ||
 || OpenArena || First Person Shooter || Quake III Arena || http://libregamewiki.org/OpenArena || http://freegamer.blogspot.com/search?q=OpenArena ||
 || Overgod || Arcade ||  || http://libregamewiki.org/Overgod || http://freegamer.blogspot.com/search?q=overgod ||
+|| Scorched 3D || TBS || Scorched Earth || http://libregamewiki.org/Scorched_3D || http://freegamer.blogspot.com/search?q=scorched+3d ||
 || Simutrans || Transport Infrastructure || Transport Tycoon || http://libregamewiki.org/Simutrans || http://freegamer.blogspot.com/search?q=Simutrans ||
 || Supertux || Platform || Super Mario Bros. || http://libregamewiki.org/Supertux || http://freegamer.blogspot.com/search?q=Supertux ||
 || SuperTuxKart || Racing || Super Mario Kart || http://libregamewiki.org/SuperTuxKart || http://freegamer.blogspot.com/search?q=SuperTuxKart ||
@@ -52,7 +59,7 @@ I removed Flightgear because until I can compile fgrun or another GUI to launch 
 
 I'm reworking the application's menu to show more nicely the new collection of games.
 
-= Add a graphical 'Insert an USB flash drive' message =
+= Add a graphical 'Insert an USB flash drive' message (Working) =
 
 I'll add a message box to show the 'Insert an USB flash drive', I hope it will look nicer than the current gnome console used to display the message.
 
