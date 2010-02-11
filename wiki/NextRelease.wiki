@@ -1,7 +1,10 @@
 #summary Changes planned for the next release.
 #labels Featured
 
-*Update - Wednesday February 10th, 2010*: Updated the game list, now with 50 games, this is the final list for the next release. Now working on the graphical interface for the 'Insert an USB flash drive' message.
+*Update - Wednesday February 10th, 2010*: 
+ * Updated the game list, now with 50 games, this is the final list for the next release.
+ * The graphical interface for the 'Insert an USB flash drive' message is done.
+ * Working on the application's menu.
 
 Monday, February 8th, 2010.
 
@@ -58,11 +61,11 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 
 I removed Flightgear because until I can compile fgrun or another GUI to launch the game. In the current state the CLI is needed to select a plane, airport and other options.
 
-= Application's menu =
+= Application's menu (Work in progress)=
 
 I'm reworking the application's menu to show more nicely the new collection of games.
 
-= Add a graphical 'Insert an USB flash drive' message (Working on) =
+= Add a graphical 'Insert an USB flash drive' message (Done) =
 
 I'll add a message box to show the 'Insert an USB flash drive', I hope it will look nicer than the current gnome console used to display the message.
 
