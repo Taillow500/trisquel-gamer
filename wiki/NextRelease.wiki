@@ -6,7 +6,7 @@
  * The graphical interface for the 'Insert an USB flash drive' message is done.
  * Working on the application's menu.
 
-Monday, February 8th, 2010.
+*Monday, February 8th, 2010.*
 
 = Introduction =
 
