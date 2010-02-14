@@ -78,7 +78,7 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 
 = Removed Games =
 
-I removed Flightgear because until I can compile fgrun or another GUI to launch the game. In the current state the CLI is needed to select a plane, airport and other options.
+I removed Flightgear until I can compile fgrun or another GUI to launch the game. In the current state the CLI is needed to select a plane, airport and other options.
 
 = Application's menu (Work in progress)=
 
