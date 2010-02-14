@@ -1,6 +1,8 @@
 #summary Changes planned for the next release.
 #labels Featured
 
+*Update - Sunday February 14th, 2010*: The "Added games" list was changed to "Complete game list" to avoid confusion.
+
 *Update - Wednesday February 10th, 2010*: 
  * Updated the game list, now with 50 games, this is the final list for the next release.
  * The graphical interface for the 'Insert an USB flash drive' message is done.
@@ -18,7 +20,7 @@ Next Release: 50 Games.
 
 I'll make the new release soon, probably this weekend or the next week.
 
-= Added Games (Updated, Final)=
+= Complete Game List (Updated, Final)=
 
 I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/trisquel-gamer-live-dvd-full-free-software-games-boot-and-play, thank you for your comments! So here is the games that will be added to the next release (there are 33 new games):
 
