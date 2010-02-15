@@ -29,7 +29,7 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 || Adonthell (Waste's edge) || RPG ||  || http://libregamewiki.org/Adonthell || http://freegamer.blogspot.com/search?q=adonthell ||
 || Advanced Strategic Command || Turn-Based Strategy ||  || http://libregamewiki.org/Advanced_Strategic_Command || http://freegamer.blogspot.com/search?q=Advanced+strategic+command ||
 || Armagetron Advanced || Racing || Tron || http://libregamewiki.org/Armagetron_advanced || http://freegamer.blogspot.com/search?q=Armagetron+Advanced ||
-|| Atomic Tanks || Arcade || Artillery || http://libregamewiki.org/Atomic_tanks || http://freegamer.blogspot.com/search?q=Atomic+Tanks ||
+|| Atomic Tanks || Turn-based Strategy || Artillery || http://libregamewiki.org/Atomic_tanks || http://freegamer.blogspot.com/search?q=Atomic+Tanks ||
 || Barrage || Arcade ||  || http://libregamewiki.org/Barrage || http://freegamer.blogspot.com/search?q=Barrage ||
 || Battle for Wesnoth || Turn-Based Strategy || Master of Monsters || http://libregamewiki.org/Wesnoth || http://freegamer.blogspot.com/search?q=wesnoth ||
 || Battle Tanks || Arcade ||  || http://libregamewiki.org/Battle_Tanks || http://freegamer.blogspot.com/search?q=Battle+Tanks ||
