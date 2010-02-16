@@ -40,7 +40,7 @@ I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/t
 || Bygfoot || Simulation ||  || http://libregamewiki.org/Bygfoot || http://freegamer.blogspot.com/search?q=bygfoot ||
 || Chromium B.S.U. || Arcade || Raptor || http://libregamewiki.org/Chromium_B.S.U. || http://freegamer.blogspot.com/search?q=Chromium ||
 || Crimson Fields || Turn-Based Strategy ||  || http://libregamewiki.org/Crimson_Fields || http://freegamer.blogspot.com/search?q=Crimson+Fields ||
-|| Cultivation || Life Simulation ||  || http://libregamewiki.org/Cultivation || http://freegamer.blogspot.com/search?q=Cultivation ||
+|| Cultivation || Real-time Strategy ||  || http://libregamewiki.org/Cultivation || http://freegamer.blogspot.com/search?q=Cultivation ||
 || Emilia Pinball || Arcade ||  || http://libregamewiki.org/Emilia_Pinball || http://freegamer.blogspot.com/search?q=emilia+pinball ||
 || Extreme Tux Racer || Racing ||  || http://libregamewiki.org/Extreme_Tux_Racer || http://freegamer.blogspot.com/search?q=Extreme+Tux+Racer ||
 || Fish Fillets NG || Puzzle || Sokoban || http://libregamewiki.org/Fish_Fillets_-_Next_Generation || http://freegamer.blogspot.com/search?q=fish+fillets ||
