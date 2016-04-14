@@ -1,0 +1,30 @@
+# Introduction #
+
+This is a list of all the games included in the current release, with links to the games entry in [Libre Game Wiki](http://libregamewiki.org/) and a review at the [Free Gamer blog](http://freegamer.blogspot.com).
+
+
+# List of Games #
+| **Name** | **Genre** | **Clones** | **Libre Game Wiki Entry** | **Free Gamer Entry** |
+|:---------|:----------|:-----------|:--------------------------|:---------------------|
+| Battle for Wesnoth | Turn-Based Strategy | Master of Monsters | http://libregamewiki.org/Wesnoth | http://freegamer.blogspot.com/search?q=wesnoth |
+| Biniax 2 | Puzzle    |            | http://libregamewiki.org/Biniax | http://freegamer.blogspot.com/search?q=biniax |
+| Block Attack | Puzzle    | Tetris Attack | http://libregamewiki.org/Block_Attack | http://freegamer.blogspot.com/search?q=block+attack |
+| Bos Wars | Real-Time Strategy |            | http://libregamewiki.org/Bos_Wars | http://freegamer.blogspot.com/search?q=bos+wars |
+| Emilia Pinball | Arcade    |            | http://libregamewiki.org/Emilia_Pinball | http://freegamer.blogspot.com/search?q=emilia+pinball |
+| FlightGear | Flight Simulator |            | http://libregamewiki.org/Flightgear | http://freegamer.blogspot.com/search?q=flightgear |
+| Freeciv  | Turn-Based Strategy | Civilization | http://libregamewiki.org/Freeciv | http://freegamer.blogspot.com/search?q=freeciv |
+| Globulation 2 | Real-Time Strategy |            | http://libregamewiki.org/Globulation | http://freegamer.blogspot.com/search?q=globulation |
+| Hex-a-Hop | Puzzle    |            | http://libregamewiki.org/Hex-a-hop | http://freegamer.blogspot.com/search?q=hex-a-hop |
+| LinCity-NG | City Building | SimCity    | http://libregamewiki.org/LinCity-NG | http://freegamer.blogspot.com/search?q=lincity-ng |
+| LordsAWar | Turn-Based Strategy | Warlods II | http://libregamewiki.org/Lordsawar | http://freegamer.blogspot.com/search?q=lordsawar |
+| Neverball | Puzzle    | Super Monkey Ball | http://libregamewiki.org/Neverball | http://freegamer.blogspot.com/search?q=neverball |
+| Pingus   | Puzzle    | Lemmings   | http://libregamewiki.org/Pingus | http://freegamer.blogspot.com/search?q=pingus |
+| Stormbaan Coureur | Racing    |            | http://libregamewiki.org/Stormbaan_Coureur | http://freegamer.blogspot.com/search?q=Stormbaan+Coureur |
+| The Mana World | MMORPG    |            | http://libregamewiki.org/The_Mana_World | http://freegamer.blogspot.com/search?q=the+mana+world |
+| TORCS    | Racing    |            | http://libregamewiki.org/TORCS | http://freegamer.blogspot.com/search?q=TORCS |
+| Widelands | Turn-Based Strategy | Settlers   | http://libregamewiki.org/Widelands | http://freegamer.blogspot.com/search?q=widelands |
+| Wormux   | Turn-Based Strategy | Worms      | http://libregamewiki.org/Wormux | http://freegamer.blogspot.com/search?q=wormux |
+
+
+|  |  |  |  |  |
+|:-|:-|:-|:-|:-|

@@ -1,0 +1,94 @@
+**Update - Tuesday February 16th, 2010**: All the task planned for the next release are done. A new release is imminent. I'm in talks with the Trisquel developers to add Trisquel Gamer as a community maintained edition of Trisquel. If so, the next release will be hosted at the Trisquel servers.
+
+**Update - Sunday February 14th, 2010**: The "Added games" list was changed to "Complete game list" to avoid confusion.
+
+**Update - Wednesday February 10th, 2010**:
+  * Updated the game list, now with 50 games, this is the final list for the next release.
+  * The graphical interface for the 'Insert an USB flash drive' message is done.
+  * Working on the application's menu.
+
+**Monday, February 8th, 2010.**
+
+# Introduction #
+
+Here is the list of games and other features that will be added to the next release of Trisquel Gamer.
+
+Current release: 18 Games.
+
+Next Release: 50 Games.
+
+I'll make the new release soon, probably this weekend or the next week.
+
+# Complete Game List (Updated, Final) #
+
+I read a lot of feedback from the Trisquel forum http://trisquel.info/gl/forum/trisquel-gamer-live-dvd-full-free-software-games-boot-and-play, thank you for your comments! So here is the games that will be added to the next release (there are 33 new games):
+
+| **Name** | **Genre** | **Clones** | **Libre Game Wiki Entry** | **Free Gamer Entry** |
+|:---------|:----------|:-----------|:--------------------------|:---------------------|
+| Abe's Amazing Adventure | Platform  |            | http://libregamewiki.org/Abe%27s_Amazing_Adventure | http://freegamer.blogspot.com/search?q=Abe%27s+Amazing+Adventure |
+| Adonthell (Waste's edge) | RPG       |            | http://libregamewiki.org/Adonthell | http://freegamer.blogspot.com/search?q=adonthell |
+| Advanced Strategic Command | Turn-Based Strategy |            | http://libregamewiki.org/Advanced_Strategic_Command | http://freegamer.blogspot.com/search?q=Advanced+strategic+command |
+| Armagetron Advanced | Racing    | Tron       | http://libregamewiki.org/Armagetron_advanced | http://freegamer.blogspot.com/search?q=Armagetron+Advanced |
+| Atomic Tanks | Turn-based Strategy | Artillery  | http://libregamewiki.org/Atomic_tanks | http://freegamer.blogspot.com/search?q=Atomic+Tanks |
+| Barrage  | Arcade    |            | http://libregamewiki.org/Barrage | http://freegamer.blogspot.com/search?q=Barrage |
+| Battle for Wesnoth | Turn-Based Strategy | Master of Monsters | http://libregamewiki.org/Wesnoth | http://freegamer.blogspot.com/search?q=wesnoth |
+| Battle Tanks | Arcade    |            | http://libregamewiki.org/Battle_Tanks | http://freegamer.blogspot.com/search?q=Battle+Tanks |
+| Biniax 2 | Puzzle    |            | http://libregamewiki.org/Biniax | http://freegamer.blogspot.com/search?q=biniax |
+| Blob Wars Episode 2 : Blob And Conquer | Third Person Shooter |            | http://libregamewiki.org/Blob_Wars_Episode_2_:_Blob_And_Conquer | http://freegamer.blogspot.com/search?q=Blob+and+Conquer |
+| Block Attack | Puzzle    | Tetris Attack | http://libregamewiki.org/Block_Attack | http://freegamer.blogspot.com/search?q=block+attack |
+| Bos Wars | Real-Time Strategy |            | http://libregamewiki.org/Bos_Wars | http://freegamer.blogspot.com/search?q=bos+wars |
+| Bygfoot  | Simulation |            | http://libregamewiki.org/Bygfoot | http://freegamer.blogspot.com/search?q=bygfoot |
+| Chromium B.S.U. | Arcade    | Raptor     | http://libregamewiki.org/Chromium_B.S.U. | http://freegamer.blogspot.com/search?q=Chromium |
+| Crimson Fields | Turn-Based Strategy |            | http://libregamewiki.org/Crimson_Fields | http://freegamer.blogspot.com/search?q=Crimson+Fields |
+| Cultivation | Real-time Strategy |            | http://libregamewiki.org/Cultivation | http://freegamer.blogspot.com/search?q=Cultivation |
+| Emilia Pinball | Arcade    |            | http://libregamewiki.org/Emilia_Pinball | http://freegamer.blogspot.com/search?q=emilia+pinball |
+| Extreme Tux Racer | Racing    |            | http://libregamewiki.org/Extreme_Tux_Racer | http://freegamer.blogspot.com/search?q=Extreme+Tux+Racer |
+| Fish Fillets NG | Puzzle    | Sokoban    | http://libregamewiki.org/Fish_Fillets_-_Next_Generation | http://freegamer.blogspot.com/search?q=fish+fillets |
+| Freeciv  | Turn-Based Strategy | Civilization | http://libregamewiki.org/Freeciv | http://freegamer.blogspot.com/search?q=freeciv |
+| Freecol  | Turn-Based Strategy | Colonization | http://libregamewiki.org/Freecol | http://freegamer.blogspot.com/search?q=Freecol |
+| Frets on Fire | Music     | Guitar Hero | http://libregamewiki.org/Frets_on_Fire | http://freegamer.blogspot.com/search?q=frets+on+fire |
+| Freedroid RPG | RPG       |            | http://libregamewiki.org/Freedroid_RPG | http://freegamer.blogspot.com/search?q=Freedroid+RPG |
+| Frozen Bubble | Puzzle    | Puzzle Bobble | http://libregamewiki.org/Frozen_Bubble | http://freegamer.blogspot.com/search?q=Frozen+Bubble |
+| GL-117   | Combat Flight Simulator |            | http://libregamewiki.org/GL-117 | http://freegamer.blogspot.com/search?q=gl-117 |
+| Globulation 2 | Real-Time Strategy |            | http://libregamewiki.org/Globulation | http://freegamer.blogspot.com/search?q=globulation |
+| Hex-a-Hop | Puzzle    |            | http://libregamewiki.org/Hex-a-hop | http://freegamer.blogspot.com/search?q=hex-a-hop |
+| LinCity-NG | City Building | SimCity    | http://libregamewiki.org/LinCity-NG | http://freegamer.blogspot.com/search?q=lincity-ng |
+| LordsAWar | Turn-Based Strategy | Warlods II | http://libregamewiki.org/Lordsawar | http://freegamer.blogspot.com/search?q=lordsawar |
+| Meritous | Action RPG |            | http://libregamewiki.org/Meritous | http://freegamer.blogspot.com/search?q=Meritous |
+| Neverball | Puzzle    | Super Monkey Ball | http://libregamewiki.org/Neverball | http://freegamer.blogspot.com/search?q=neverball |
+| Nexuiz   | First Person Shooter |            | http://libregamewiki.org/Nexuiz | http://freegamer.blogspot.com/search?q=Nexuiz |
+| Nikwi    | Platform  | Nico Tuvla | http://libregamewiki.org/Nikwi | http://freegamer.blogspot.com/search?q=Nikwi |
+| OpenArena | First Person Shooter | Quake III Arena | http://libregamewiki.org/OpenArena | http://freegamer.blogspot.com/search?q=OpenArena |
+| Overgod  | Arcade    |            | http://libregamewiki.org/Overgod | http://freegamer.blogspot.com/search?q=overgod |
+| Pingus   | Puzzle    | Lemmings   | http://libregamewiki.org/Pingus | http://freegamer.blogspot.com/search?q=pingus |
+| Scorched 3D | Turn-Based Strategy | Scorched Earth | http://libregamewiki.org/Scorched_3D | http://freegamer.blogspot.com/search?q=scorched+3d |
+| Secret Maryo Chronicles | Platform  | Super Mario World | http://libregamewiki.org/Secret_Maryo_Chronicles | http://freegamer.blogspot.com/search?q=secret+maryo+chronicles |
+| Simutrans | Transport Infrastructure | Transport Tycoon | http://libregamewiki.org/Simutrans | http://freegamer.blogspot.com/search?q=Simutrans |
+| Stormbaan Coureur | Racing    |            | http://libregamewiki.org/Stormbaan_Coureur | http://freegamer.blogspot.com/search?q=Stormbaan+Coureur |
+| Super Transball 2 | Arcade    | ZARA THRUSTA | http://libregamewiki.org/Super_Transball_2 | http://freegamer.blogspot.com/2006/06/karting-race-to-gpl-vdrift.html |
+| Supertux | Platform  | Super Mario Bros. | http://libregamewiki.org/Supertux | http://freegamer.blogspot.com/search?q=Supertux |
+| SuperTuxKart | Racing    | Super Mario Kart | http://libregamewiki.org/SuperTuxKart | http://freegamer.blogspot.com/search?q=SuperTuxKart |
+| The Mana World | MMORPG    |            | http://libregamewiki.org/The_Mana_World | http://freegamer.blogspot.com/search?q=the+mana+world |
+| TORCS    | Racing    |            | http://libregamewiki.org/TORCS | http://freegamer.blogspot.com/search?q=TORCS |
+| Trackballs | Arcade    | Marble Madness | http://libregamewiki.org/Trackballs | http://freegamer.blogspot.com/search?q=trackballs |
+| Vega Strike | Space Simulation | Elite      | http://libregamewiki.org/Vega_Strike | http://freegamer.blogspot.com/search?q=Vega+Strike |
+| Widelands | Turn-Based Strategy | Settlers   | http://libregamewiki.org/Widelands | http://freegamer.blogspot.com/search?q=widelands |
+| Wormux   | Turn-Based Strategy | Worms      | http://libregamewiki.org/Wormux | http://freegamer.blogspot.com/search?q=wormux |
+| X-Moto   | Racing    | Elastomania | http://libregamewiki.org/X-Moto | http://freegamer.blogspot.com/search?q=xmoto |
+
+# Removed Games #
+
+I removed Flightgear until I can compile fgrun or another GUI to launch the game. In the current state the CLI is needed to select a plane, airport and other options.
+
+# Application's menu (Done) #
+
+I'm reworking the application's menu to show more nicely the new collection of games.
+
+# Add a graphical 'Connect an USB flash drive' message (Done) #
+
+I'll add a message box to show the 'Connect an USB flash drive', I hope it will look nicer than the current gnome console used to display the message.
+
+Well, that's all for now. Stay tuned for more release information.
+
+|  |  |  |  |  |
+|:-|:-|:-|:-|:-|
